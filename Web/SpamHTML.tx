@@ -1,0 +1,46 @@
+HTML siglas:
+significado de las siglas: Hyper-Text-Markup-language en español lenguaje de 
+marcado de hipertexto.
+
+Tag en español (etiquetas)
+
+.header(cabezera)
+.nav(navegacion)
+.section(secciones)
+.aside(barra lateral de info)
+.footer(pie de pagina)
+.title(titulo) a la pagina
+.p(Parrafo)coloca parrafos en la pagina
+.h1(titulo)por dentro de la pagina
+.h2(titulo) 
+.h3(titulo) 
+.h4(titulo) 
+.h5(titulo) 
+.h6(titulo) 
+.!DOCTYPE html(indicador de ultima version de html)
+.head(cabeza)
+.body(cuerpo)
+.html(para indicar que es un texto HTML)
+.meta(sirve para poner atributo dentro de el 
+y dar mas informacion al navegador)
+.ul(lista desordenada)
+.li((item de la lista)va conjunto a la etiqueta ul )
+.hgroup(sirve para agrupar encabezados)
+.blockquote(siver para poner direcciones de paginas)
+.a(para poner direcciones pero no como el blockquote)
+.img(para poner imagenes)
+{.small(sirve para cambiar de tamaño a las letras de un parrafo)
+funciona en conjunto con la etiqueta (p)
+.cite(pone a las letra de un tipo cursiva)
+.span(funciona en conjunto con css)}
+.div(divisiones)
+
+Attibuto de las etiquetas de HTML
+.lang(para poner la pagina en un idioma especifico)
+.name(keywords,author,description)
+.content(nombre de empresa o palabras clave para que 
+encuentren tu pagina de mejor forma)
+.charset(utf-8(permite utilizar emoticones, imagenes, etc))
+.href(atributo de la etiqueta (a))
+.src(atributo de la etiqueta (img))
+.style(atributo de header)

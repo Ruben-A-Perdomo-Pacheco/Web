@@ -1,0 +1,14 @@
+CSS siglas:
+Cascading Style Sheets en español hojas estilos en cascada.
+
+selectores de CSS:
+.Style(cambia en el estilo de los elementos)
+.id(describe un solo elemento) para utilizar los id poner el (#)
+.class(clases) para utilizar las clases poner el (.)
+.*(selector) se utilizar para cambiar todos los elemtos de la pagina
+.cite
+.font(tiene muchas propiedades para cambiar los estilos a las fuentes de las pagina)
+.border(para poner bordes en la pagina)
+.display(para poner recuadros)
+
+propiedades:

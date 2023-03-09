@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+h2 {
+    font: bold 14px sans-serif;
+}
+
+header,
+section,
+footer,
+aside,
+nav,
+article,
+hgroup {
+    display: block;
+}
+
+body {
+    text-align: center;
+    background: gray;
+}
+
+.agrupar {
+    width: 960px;
+    border: 1px solid black;
+    margin: 15px auto;
+    background: white;
+}
+
+.cabecera {
+    background: red;
+    padding: 20px;
+}
+
+.cabecera h1 {
+    text-align: left;
+}
+
+.menu {
+    background: #999;
+    padding: 5px 15px;
+    text-align: left;
+}
+
+.menu li {
+    list-style: none;
+    font: bold 14px verdana;
+    display: inline;
+}
+
+.seccion {
+    margin: 20px;
+    width: 600px;
+    float: left;
+}
+
+article {
+    background: gray;
+    border: 1px solid black;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+time {
+    color: black;
+}
+
+article footer {
+    text-align: right;
+    margin-top: 20px;
+}
+
+.columna {
+    width: 300px;
+    float: left;
+    margin: 20px 0;
+
+}
+
+.columna blockquote {
+    border: 1px dashed black;
+    padding: 40px;
+    background: red;
+    margin-bottom: 20px;
+}
+
+.pie {
+    clear: both;
+    padding: 20px;
+    background: red;
+}
+
+img {
+    width: 100px;
+    display: block;
+    margin: 20px auto;
+}
